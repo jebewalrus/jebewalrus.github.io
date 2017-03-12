@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bienvenidos a este resumen de actividad"
 date:   2017-03-06 23:23:44 +0100
 categories: jekyll update
 ---
